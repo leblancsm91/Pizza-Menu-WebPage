@@ -1,0 +1,28 @@
+body {
+	background-color: #FFFFE0;
+}
+
+#menuBG {
+	
+	width: 500px;
+	position: center;
+	text-align: center;
+	margin: 140px 0 0 230px;
+	z-index: 100;
+	background-color: rgb(255,255,224);
+	border: 2px solid #000;
+	border-radius: 10px;
+	box-shadow: rgba(0,128,0,0.6);
+}
+
+
+	width: 500px;
+	position: center;
+	text-align: center;
+	margin: 140px 0 0 230px;
+	z-index: 100;
+	background-color: rgb(255,255,224);
+	border: 2px solid #000;
+	border-radius: 10px;
+	box-shadow: rgba(0,128,0,0.6);
+}
